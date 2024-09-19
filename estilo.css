@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kameron:wght@400..700&display=swap');
+body.pag-inicial {
+    text-align: center;
+    background-image: url("homem.jpeg") ;
+    background-attachment: fixed;
+    font-family:"Kameron", sans-serif;
+}
+
+.botoes {
+    background-color;   
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    margin: 10px;
+    padding: 10px;
+
+   
+}
+
+.botoes a {
+    display: flex;
+    flex-direction: column;
+    background-color: #DADEDF;
+    color: #22263F;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    width: 100px; 
+    border-width: 2px;
+border-style: solid;
+border-color: black;
+border-radius: 8px;
+}
